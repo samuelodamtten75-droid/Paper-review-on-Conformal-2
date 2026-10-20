@@ -1,0 +1,9 @@
+method,daily coverage percent,diesel kWh,grid MWh,unmet kWh,cost USD
+Greedy,0,3797,104.93,10.67,23390
+Physical persistence,6.2,1605,110.22,5.32,23389
+Prefix median,0.1,1625,109.01,6.67,23246
+Prefix quantile / hourly,4.6,1223,114.42,4.51,23787
+Learned block,50.2,809,127.19,4.17,25235
+Terminal with block,2.5,657,132.59,0.46,25859
+Fixed,3.5,622,167.03,0,30086
+Persistence with block,92,344,178.8,0.32,31447

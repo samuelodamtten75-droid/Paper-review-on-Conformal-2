@@ -1,0 +1,5 @@
+Proposed contribution paragraph — confirm the allocation with all authors before submission. The supplied manuscript does not establish individual roles.
+
+S.O.O. contributed to conceptualization, investigation, data curation, software development, formal analysis, and preparation of the original draft. A.Y. contributed to methodology, validation, supervision, and manuscript review and editing. S.B. contributed to investigation, data curation, and validation. T.M. contributed to methodology and formal analysis. M.Y. contributed to validation and interpretation of the results. E.A. contributed to project administration and manuscript review and editing. I.A.B. contributed to supervision and manuscript review and editing. All authors reviewed and approved the final manuscript.
+
+The final approval sentence also requires confirmation. Revise any allocation that does not reflect the work actually performed.

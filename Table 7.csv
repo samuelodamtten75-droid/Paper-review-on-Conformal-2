@@ -1,0 +1,4 @@
+features,mae kWh,daily coverage percent,reserve kWh,grid MWh,cost USD
+Clock and day class,21.77,96.5,248.9,78.19,17279
+Clock and load history,17.02,95,205.3,66.65,15875
+Full load and PV history,14.53,94.2,193.5,69.29,16194

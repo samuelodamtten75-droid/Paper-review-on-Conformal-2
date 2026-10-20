@@ -1,0 +1,10 @@
+quantity,unit,Greedy,Learned block,Fixed
+Available PV,MWh,432.1,432.1,432.1
+Demand,MWh,356.8,356.8,356.8
+PV curtailment,MWh,99.88,132.32,192.49
+AC charging,MWh,156.324,123.882,63.714
+AC discharge,MWh,140.713,111.481,57.343
+Dumped diesel,MWh,0.466,0.027,0.026
+Initial usable energy,MWh,0.116,0.26,0.293
+Final usable energy,MWh,0.094,0.273,0.293
+Stored-energy EFC,cycles,197.8,156.7,80.6

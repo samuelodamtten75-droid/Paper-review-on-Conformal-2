@@ -1,0 +1,5 @@
+predictor,mae mean kWh,mae sd kWh,rmse mean kWh,rmse sd kWh
+Physical persistence,30.39,0.88,50.91,1.66
+Ridge regression,27.32,0.36,39.1,0.65
+Random forest,14.66,0.26,23.93,0.59
+Boosted prefix median,14.53,0.26,24.14,0.62
